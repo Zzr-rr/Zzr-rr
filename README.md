@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Zzr-rr
-- 🌱 hate schools
 - 💞️ hope to cooperate with students
 - 📫 3210975872@qq.com
 
