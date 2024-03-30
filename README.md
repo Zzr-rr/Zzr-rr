@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Zzr-rr
-- 💞️ hope to cooperate with students
-- 📫 3210975872@qq.com
+- 📫 zhuzr3210@163.com
 
 <!---
 Zzr-rr/Zzr-rr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
