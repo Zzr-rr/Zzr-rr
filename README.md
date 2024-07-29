@@ -39,4 +39,14 @@
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
+  <a href="https://www.qt.io/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/512px-PyTorch_logo_icon.svg.png" alt="pytorch" width="40" height="40"/>
+  </a>
 </p>
+
+<h3 align="left">Here you contact me</h3>
+<p>🍫email - zhuzr3210@163.com</p>
+<p>🍔vx - Zzr5872</p>
