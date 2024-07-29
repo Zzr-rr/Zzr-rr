@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zzr</h1>
-<h3 align="center">A passionate fullstack developer from China</h3>
+<h3 align="center">A fullstack developer from China</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
