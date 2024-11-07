@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/zzr-rr">
-    <img src="https://github-readme-stats--beryl.vercel.app/api/top-langs/?username=zzr-rr&layout=compact&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats--beryl.vercel.app/api/top-langs/?username=zzr-rr&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
   <a href="https://github.com/zzr-rr">
     <img src="https://github-readme-stats--beryl.vercel.app/api?username=zzr-rr&show_icons=true&hide_border=true" alt="Zzr's GitHub Stats" />
