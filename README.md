@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zzr</h1>
-<h3 align="center">Fullstack Developer from China</h3>
 
+![zzr-rr's github stats](https://github-readme-stats-v2-two.vercel.app/api?username=zzr-rr&show_icons=true&hide_border=true&theme=radical)
 ---
 
 ### 📫 Contact
@@ -10,13 +10,8 @@
 
 ---
 
-### 📊 Stats
+### 📊 What I use?
 
-<p align="center">
-  <a href="https://github.com/zzr-rr">
-    <img src="https://github-readme-stats-v2-two.vercel.app/api/top-langs/?username=zzr-rr&layout=compact&hide_border=true&langs_count=8&hide=python,html" alt="Top Languages" />
-  </a>
-  <a href="https://github.com/zzr-rr">
-    <img src="https://github-readme-stats-v2-two.vercel.app/api?username=zzr-rr&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  </a>
-</p>
+
+![zzr-rr's github stats](https://github-readme-stats-v2-two.vercel.app/api/top-langs/?username=zzr-rr&layout=compact&hide_border=true&langs_count=20&theme=radical)
+
