@@ -14,9 +14,9 @@
 
 <p align="center">
   <a href="https://github.com/zzr-rr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzr-rr&layout=compact&hide_border=true&langs_count=8&hide=python,html" alt="Top Languages" />
+    <img src="https://github-readme-stats-v2-two.vercel.app/api/top-langs/?username=zzr-rr&layout=compact&hide_border=true&langs_count=8&hide=python,html" alt="Top Languages" />
   </a>
   <a href="https://github.com/zzr-rr">
-    <img src="https://github-readme-stats.vercel.app/api?username=zzr-rr&show_icons=true&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-v2-two.vercel.app/api?username=zzr-rr&show_icons=true&hide_border=true" alt="GitHub Stats" />
   </a>
 </p>
